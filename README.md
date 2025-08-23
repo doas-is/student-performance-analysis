@@ -35,8 +35,6 @@ Our analysis reveals that exam scores reflect a complex interplay of psychologic
 
     Clone the repository and download the Kaggle dataset.
 
-    Install dependencies (e.g., via pip install -r requirements.txt).
-
     Run the notebook to reproduce the analysis. The plots and results will appear inline.
 
     Explore and extend: The dataset is rich; you can try additional modeling (like decision trees or clustering) or compare subgroups of students.
